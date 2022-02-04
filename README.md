@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  - HTML
+    HTML
   - CSS
   - JavaScript
   - React 
