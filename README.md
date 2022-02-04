@@ -6,6 +6,25 @@
   profile
 </p>
 
+<p>
+  - HTML
+  - CSS
+  - JavaScript
+  - React 
+  - Redux
+  - NodeJs
+  - Express
+  - Sequelize
+  - PostgreSQL
+  - mongoDB
+  - Python
+  - Git Y Github
+</p>
+
+<p>
+  I also have knowledge in agile SCRUM methodologies, together with this I have the facility to integrate myself and contribute all my potential to the work team.   I am dynamic and curious, I like to solve problems, be constantly learning, and share what I know with others.
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorruedam&label=Profile%20views&color=0e75b6&style=flat" alt="victorruedam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorruedam" alt="victorruedam" /></a> </p>
