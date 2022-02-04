@@ -20,7 +20,8 @@
   - PostgreSQL
   - mongoDB
   - Python
-  - Git Y Github
+  - Git
+  - Github
 </p>
 
 <p>
