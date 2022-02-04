@@ -29,7 +29,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorruedam" alt="victorruedam" /></a> </p>
 
-- 🔭 I’m currently working on **The Dogs app**
+- 🔭 I’m currently working on **I’m currently working on Buyme App, an e-commerce. .**
 
 - 🌱 I’m currently learning **React, Redux, Sequelize, Django**
 
