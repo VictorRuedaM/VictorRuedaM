@@ -3,7 +3,7 @@
 <p>
   I am a Full Stack Developer with skills to carry out web projects and single page applications (SPA). Passionate about the IT world, I enjoy the possibility       that programming and web development gives me to create incredible solutions that positively impact the technological world that surrounds us.
   During my soyHenry bootcamp course and other web development courses I prepared myself and acquired knowledge in technologies such as:
-  profile
+  
 </p>
 
 <p>
