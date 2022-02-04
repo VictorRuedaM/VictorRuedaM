@@ -27,7 +27,7 @@
 <p>
   I also have knowledge in agile SCRUM methodologies, together with this I have the facility to integrate myself and contribute all my potential to the work team.   I am dynamic and curious, I like to solve problems, be constantly learning, and share what I know with others.
 </p>
-- 🔭 I’m currently working on **I’m currently working on Buyme App an e-commerce**
+- 🔭 I’m currently working on **I’m currently working on Buyme App, an e-commerce.**
 
 - 🌱 I’m currently learning **React, Redux, Sequelize, Django**
 
