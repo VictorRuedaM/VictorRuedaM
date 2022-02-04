@@ -2,31 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorruedam&label=Profile%20views&color=0e75b6&style=flat" alt="victorruedam" /> </p>
-<p>
-  I am a Full Stack Developer with skills to carry out web projects and single page applications (SPA). Passionate about the IT world, I enjoy the possibility       that programming and web development gives me to create incredible solutions that positively impact the technological world that surrounds us.
-  During my soyHenry bootcamp course and other web development courses I prepared myself and acquired knowledge in technologies such as:
-  
-</p>
 
-<p>
-    HTML
-  - CSS
-  - JavaScript
-  - React 
-  - Redux
-  - NodeJs
-  - Express
-  - Sequelize
-  - PostgreSQL
-  - mongoDB
-  - Python
-  - Git
-  - Github
-</p>
-
-<p>
-  I also have knowledge in agile SCRUM methodologies, together with this I have the facility to integrate myself and contribute all my potential to the work team.   I am dynamic and curious, I like to solve problems, be constantly learning, and share what I know with others.
-</p>
 - 🔭 I’m currently working on **I’m currently working on Buyme App, an e-commerce.**
 
 - 🌱 I’m currently learning **React, Redux, Sequelize, Django**
@@ -48,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorruedam&show_icons=true&locale=en" alt="victorruedam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorruedam&" alt="victorruedam" /></p>
-
