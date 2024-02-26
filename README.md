@@ -2,41 +2,19 @@
 <h2 align="center">Full Stack Developer</h2>
 
 <p>
-  I am a Full Stack Developer with skills to carry out web projects and single page applications (SPA). Passionate about the IT world, I enjoy the possibility       that programming and web development gives me to create incredible solutions that positively impact the technological world that surrounds us.
-  During my soyHenry bootcamp course and other web development courses I prepared myself and acquired knowledge in technologies such as:
+ I am a Backend Developer passionate about creating impactful technological solutions, with experience in the development of web projects and applications. I have a solid knowledge of JavaScript, TypeScript, ReactJS, ExpressJS, NestJS, MySQL, PostgreSQL and MongoDB. I am passionate about the IT world and I enjoy the possibility that programming gives me to create incredible solutions that positively impact the technological world that surrounds us.
+ 
   
 </p>
 
-<p>
-    HTML
-  - CSS
-  - JavaScript
-  - TypeScript
-  - React
-  - NextJS
-  - Redux
-  - Tailwind
-  - NodeJs
-  - Express
-  - Sequelize
-  - PostgreSQL
-  - mongoDB
-  - Python
-  - Git 
-  - Github
-</p>
-
-<p>
-  I also have knowledge in agile SCRUM methodologies, together with this I have the facility to integrate myself and contribute all my potential to the work team.   I am dynamic and curious, I like to solve problems, be constantly learning, and share what I know with others.
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorruedam&label=Profile%20views&color=0e75b6&style=flat" alt="victorruedam" /> </p>
 
 - 🔭 I’m currently working on **in personal projects and as a freelancer.**
 
-- 🌱 I’m currently learning **React, NextJS**
+- 🌱 I’m currently learning **React Native, NestJS**
 
-- 💬 Ask me about **JavaScript, TypeScript, React, NextJS, NodeJS, Python**
+- 💬 Ask me about **JavaScript, TypeScript, NestJS, NodeJS, ReactJS**
 
 - 📫 How to reach me **vialruma1985@gmail.com**
 
