@@ -52,9 +52,10 @@
 <a href="https://nextjs.org/" target="_blank"><img rel="noreferrer" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="40" height="40" /></a>  
 -->
  </p>
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorruedam&show_icons=true&locale=en&layout=compact" alt="victorruedam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorruedam&show_icons=true&locale=en" alt="victorruedam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorruedam&" alt="victorruedam" /></p>
+-->
