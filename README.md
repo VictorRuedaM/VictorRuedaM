@@ -2,7 +2,7 @@
 <h2 align="center">Backend Developer</h2>
 
 <p>
- I am a Backend Developer passionate about creating impactful technological solutions, with experience in the development of web projects and applications. I have a solid knowledge of JavaScript, TypeScript, ReactJS, ExpressJS, NestJS, MySQL, PostgreSQL and MongoDB. I am passionate about the IT world and I enjoy the possibility that programming gives me to create incredible solutions that positively impact the technological world that surrounds us.
+ I am a Full Stack Developer passionate about creating impactful technological solutions, with experience in the development of web projects and applications. I have a solid knowledge of JavaScript, TypeScript, ReactJS, ExpressJS, NestJS, MySQL, PostgreSQL and MongoDB. I am passionate about the IT world and I enjoy the possibility that programming gives me to create incredible solutions that positively impact the technological world that surrounds us.
  
   
 </p>
