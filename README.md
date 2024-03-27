@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **in personal projects and as a freelancer.**
 
-- 🌱 I’m currently learning **React Native, NestJS**
+- 🌱 I’m currently learning **React Native, NestJS and Cibersecurity**
 
-- 💬 Ask me about **JavaScript, TypeScript, NestJS, React Native**
+- 💬 Ask me about **JavaScript, TypeScript, NestJS, React Native and Cibersecurity**
 
 - 📫 How to reach me **vialruma1985@gmail.com**
 
