@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native, NestJS**
 
-- 💬 Ask me about **JavaScript, TypeScript, NestJS, NodeJS, ReactJS**
+- 💬 Ask me about **JavaScript, TypeScript, NestJS, React Native**
 
 - 📫 How to reach me **vialruma1985@gmail.com**
 
