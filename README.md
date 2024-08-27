@@ -2,7 +2,12 @@
 <h2 align="center">Backend Developer</h2>
 
 <p>
- I am a Full Stack Developer passionate about creating impactful technological solutions, with experience in the development of web projects and applications. I have a solid knowledge of JavaScript, TypeScript, ReactJS, ExpressJS, NestJS, MySQL, PostgreSQL and MongoDB. I am passionate about the IT world and I enjoy the possibility that programming gives me to create incredible solutions that positively impact the technological world that surrounds us.
+I am a Full Stack Developer with a solid foundation in technologies such as NodeJS, React, and PostgreSQL.
+During my more than 2 years of experience, I have participated in projects and developed innovative
+solutions. Currently, I am expanding my knowledge in mobile development with React Native, with the
+goal of creating high-performance and scalable mobile applications. My experience in agile methodologies and
+project management tools, combined with my passion for technology, allow me to quickly adapt to new challenges and deliver quality results. I am characterized by
+creative thinking, analysis and problem solving, teamwork, and good communication.
  
   
 </p>
@@ -16,7 +21,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, NestJS, React Native and Cibersecurity**
 
-- 📫 How to reach me **vialruma1985@gmail.com**
+- 📫 How to reach me **coderuma@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
