@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="victorruedam" width="62" height="62" />Hi I'm Victor Rueda <img src="https://thumbs.gfycat.com/BasicEnlightenedAntlion-size_restricted.gif" alt="victorruedam" width="62" height="62" /></h1>
-<h2 align="center">Backend Developer</h2>
+<h2 align="center">Full Stack Developer</h2>
 
 <p>
 I am a Full Stack Developer with a solid foundation in technologies such as NodeJS, React, and PostgreSQL.
